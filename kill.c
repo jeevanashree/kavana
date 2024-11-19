@@ -1,1 +1,2 @@
 new kill
+murdered
